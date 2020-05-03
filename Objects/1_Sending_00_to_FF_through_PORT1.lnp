@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\1_Sending_00_to_FF_through_PORT1.obj" 
+TO ".\Objects\1_Sending_00_to_FF_through_PORT1" 
+PRINT(".\Listings\1_Sending_00_to_FF_through_PORT1.m51") RAMSIZE(256) 
